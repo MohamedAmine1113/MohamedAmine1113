@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amine Bahmane</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZpMTV4YmJtZjBzc2d1MWhzOTc3Yndxcjl4dnJ0amtscnY5c3NrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif" />
 
 - 🌱 I’m currently learning **Workflow, Framer**
 
