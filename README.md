@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedAmine1113&show_icons=true&locale=en" alt="MohamedAmine1113" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAmine1113&" alt="MohamedAmine1113" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed Amine&" alt="MohamedAmine1113" /></p>
