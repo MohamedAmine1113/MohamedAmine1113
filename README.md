@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/med_amineq7" target="blank"><img src="https://img.shields.io/twitter/follow/med_amineq7?logo=twitter&style=for-the-badge" alt="med_amineq7" /></a> </p>
 
 - 🌱 I’m currently learning **java and Python**
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZpMTV4YmJtZjBzc2d1MWhzOTc3Yndxcjl4dnJ0amtscnY5c3NrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif" />
+
 - 👨‍💻 All of my projects are available at [https://mohamedaminebahmane.netlify.app/](https://mohamedaminebahmane.netlify.app/)
 
 - 💬 Ask me about **React.js, Html, Css, Wordpress**
